@@ -1,0 +1,12 @@
+{
+  "country": "US",
+  "holidays": [
+    { "id": "new-years-day", "name": "New Year's Day", "type": "fixed", "month": 1, "day": 1 },
+    { "id": "mlk-day", "name": "Martin Luther King Jr. Day", "type": "nth-weekday", "month": 1, "weekday": 1, "nth": 3 },
+    { "id": "memorial-day", "name": "Memorial Day", "type": "last-weekday", "month": 5, "weekday": 1 },
+    { "id": "independence-day", "name": "Independence Day", "type": "fixed", "month": 7, "day": 4 },
+    { "id": "labor-day", "name": "Labor Day", "type": "nth-weekday", "month": 9, "weekday": 1, "nth": 1 },
+    { "id": "thanksgiving", "name": "Thanksgiving", "type": "nth-weekday", "month": 11, "weekday": 4, "nth": 4 },
+    { "id": "christmas", "name": "Christmas Day", "type": "fixed", "month": 12, "day": 25 }
+  ]
+}

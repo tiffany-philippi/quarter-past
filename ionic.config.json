@@ -1,0 +1,7 @@
+{
+  "name": "quarter-past",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
